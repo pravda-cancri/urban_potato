@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Pravda-Cancri @ ReWork
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+just a sit for holding info about myself
 
